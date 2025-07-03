@@ -3,3 +3,4 @@ numpy
 streamlit
 opencv_python_headless
 tensorflow
+python-3.10.13
