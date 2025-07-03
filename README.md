@@ -24,7 +24,7 @@ To run the project locally, follow these steps:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/rakeshputakala/Plant-Disease-Detection
+git clone https://github.com/ThejasreeV/Plant-Disease-Detection
 ```
 
 2. Navigate to the project directory:
